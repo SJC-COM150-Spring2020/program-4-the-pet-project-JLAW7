@@ -1,0 +1,11 @@
+E:\Projects\ThePetProject\ThePetProject\bin\Debug\ThePetProject.exe.config
+E:\Projects\ThePetProject\ThePetProject\bin\Debug\ThePetProject.exe
+E:\Projects\ThePetProject\ThePetProject\bin\Debug\ThePetProject.pdb
+E:\Projects\ThePetProject\ThePetProject\bin\Debug\ThePetProject.xml
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.vbprojResolveAssemblyReference.cache
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.Pet.resources
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.Resources.resources
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.vbproj.GenerateResource.Cache
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.exe
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.xml
+E:\Projects\ThePetProject\ThePetProject\obj\Debug\ThePetProject.pdb
